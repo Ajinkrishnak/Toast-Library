@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/SampleToast/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="ToastyToast/src/main/res/drawable/shape.xml" value="0.2305" />
+        <entry key="ToastyToast/src/main/res/layout/layout_toasty.xml" value="0.3145833333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.315625" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
